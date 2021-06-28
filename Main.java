@@ -1,7 +1,7 @@
 public class Main {
 
     public static void main(String[] args) {
-
+//The sum of the numbers dividing 220 by the sum of the numbers dividing 284 is equal = friend numbers.
         int sayi1 = 220;
         int sayi2 = 284;
         int total1 = 0;
